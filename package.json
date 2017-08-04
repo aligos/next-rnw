@@ -1,0 +1,33 @@
+{
+  "name": "next-rnw",
+  "version": "1.0.0",
+  "description": "Nextjs React Native Web Example",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^3.0.1-beta.20",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-native-web": "0.0.119"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aligos/next-rnw.git"
+  },
+  "keywords": [
+    "React",
+    "Native",
+    "Web"
+  ],
+  "author": "Rahmat Aligos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aligos/next-rnw/issues"
+  },
+  "homepage": "https://github.com/aligos/next-rnw#readme"
+}
